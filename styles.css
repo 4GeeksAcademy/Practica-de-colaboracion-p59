@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+}
+
+.card {
+    border-radius: 15px;  
+    border: none;         
+    overflow: hidden;     
+}
